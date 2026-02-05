@@ -1,5 +1,6 @@
 .DS_Store
 .wrangler
+.agent
 /node_modules/
 
 # React Router
